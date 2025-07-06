@@ -16,7 +16,7 @@ A simple GUI-based number guessing game built using Python and Tkinter.
 ## ▶️ How to Run
 
 1. Make sure Python is installed.
-2. Save the script as `number_guess_game.py`.
+2. Save the script as `num_guess_game.py`.
 3. Open terminal or command prompt.
 4. Run the game using:
 
